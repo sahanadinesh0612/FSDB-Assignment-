@@ -200,7 +200,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Sahana Library Team**
+Sahana D
+
 
 ## 🙏 Acknowledgments
 
@@ -208,14 +209,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with best practices in web development
 - Designed for ease of use and extensibility
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Contact: support@sahanalibrary.com
-
 ---
 
 **Made with ❤️ for book lovers everywhere**
 
 *Last Updated: January 2026*
+
